@@ -1,3 +1,5 @@
+// it returns true if the whole graph is connected otherwise false
+
 import java.io.*;
 import java.util.*;
 
