@@ -1,3 +1,6 @@
+// It will just print 0- false or 1- true for target sum subset if it exist or not
+
+
 import java.io.*;
 import java.util.*;
 
