@@ -40,7 +40,7 @@ public class Main {
                  }
                  
                 
-                else                 // when player doesm't contributes 
+                else                 // when player doesn't contributes 
                   dp[i][j] = dp[i-1][j];         
              }
          }
