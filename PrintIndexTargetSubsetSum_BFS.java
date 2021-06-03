@@ -94,7 +94,7 @@ public class Main {
             
             Pair rem= q.removeFirst();
             
-            if(rem.i==0 && rem.j==0){
+            if(rem.i==0 && rem.j==0){            //(we can use || instead of &&)
                 System.out.println(rem.path);
                 
             }
