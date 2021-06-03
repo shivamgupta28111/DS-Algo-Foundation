@@ -45,7 +45,7 @@ public class Main {
       }
       
       st.push(arr[i]);
-    }
+    }    // for loop ends
 
     return nge;
   }
