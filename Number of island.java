@@ -18,7 +18,7 @@ public class Main {
          }
       }
 
-      // write your code here
+      // code Logic for Number of island
       
       boolean[][] vis = new boolean[m][n];
       int count =0;
