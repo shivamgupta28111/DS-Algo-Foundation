@@ -39,7 +39,7 @@ public class Main {
    
    public static void dfs(int[][] arr, int i,int j,boolean[][] vis){
        
-       if(i<0|| i==arr.length|| j<0||j==arr[0].length||arr[i][j]!=0||vis[i][j]==true){
+       if(i<0|| i==arr.length|| j<0||j==arr[0].length||arr[i][j]!=0||vis[i][j]==true){           // is safe logic
            return;
        }
        
