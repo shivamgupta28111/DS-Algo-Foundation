@@ -26,12 +26,10 @@ public class Main {
                
                 if(coin<=amount){
                     
-                    if(coin<=amount){
-                        
-                        int remainingAmt=amount-coin;
+                       int remainingAmt=amount-coin;
                         
                         dp[amount] +=dp[remainingAmt];
-                    }
+                    
                     
                 }
             } 
