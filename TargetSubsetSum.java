@@ -38,9 +38,8 @@ public class Main {
                 }
                 
                 else if(i==0){
-                    dp[i][j]=0;
-                    
-                    
+                   
+                    dp[i][j]=0;  
                 }
                 
               
